@@ -1,10 +1,6 @@
 # hello-rails-back-end
 
 <a name="readme-top"></a>
-<div align="center">
-  <img src="https://github.com/microverseinc/readme-template/raw/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-</div>
-
 # 📗 Table of Contents
 
 - [hello-rails-back-end](#hello-rails-back-end)
@@ -18,6 +14,7 @@
     - [Setup](#setup)
     - [Usage](#usage)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -95,7 +92,10 @@ To run the project, execute the following command:
 - Twitter: [@meshu102](https://twitter.com/meshu102)
 - LinkedIn: [Melashu Amare](https://www.linkedin.com/in/melashu-amare/)
 
-<!-- FUTURE FEATURES -->
+## [🔭 Future Features ](#-future-features-)
+In the future I want to add the following features
+- I need to add API authentication.
+- I need to use josn serailzation.
 
 
 ## 🤝 Contributing <a name="contributing"></a>
