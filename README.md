@@ -5,7 +5,7 @@
 
 - [hello-rails-back-end](#hello-rails-back-end)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 rails\_with\_react ](#-rails_with_react-)
+- [📖 hello-rails-back-end](#-hello-rails-back-end)
   - [🛠 Built With ](#-built-with-)
   - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
@@ -20,7 +20,7 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 rails_with_react <a name="about-project"></a>
+# 📖 hello-rails-back-end<a name="about-project"></a>
 
 This is a demo project to setup rails with react freamwork. 
 
